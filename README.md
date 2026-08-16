@@ -168,3 +168,5 @@ Built as a sales analytics and forecasting portfolio project using open datasets
 ## License
 
 This project is for educational and portfolio purposes.
+
+Only for that.
